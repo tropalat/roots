@@ -1,0 +1,6 @@
+tropa-roots/1
+day: 2026-10-06
+day-boundaries: 00:00 to 24:00 America/Montevideo (UTC-03:00), by the time each event was received
+events: 20
+tree: RFC 9162 Merkle Tree Hash over each event's SHA-256 hash, in stream and sequence order
+root: ead5b7cbd8e03677f5138c07ad10ac61c7780622f851ea7b7916d37783f01d2d
